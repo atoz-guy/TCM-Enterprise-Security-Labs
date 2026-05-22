@@ -81,5 +81,5 @@ Dynamic Analysis Findings
 	Blocked the external domain raw.githubusercontent.com and the full image URL path at the perimeter firewall and web proxy.
 	Submitted the email artifact's SHA256 hash (91fc4aa2257b9c69684ac2bbc220ed7556c3db68cf725812ce365ef3febc8604) to the corporate EDR blocklist.
 
-Challenge screen shot
-<img src="Screenshot%20Start%20Analysis%202026-05-21%20123532.png" align="right" width="350">
+Challenge screen shot:
+![Phishing Challenge 1 Screenshot](phishing%20challenge%201%20screenshot.png)
