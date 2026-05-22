@@ -1,7 +1,5 @@
 # Incident Report: Phishing Analysis Challenge 1
 
-Perform a detailed email analysis on the “challenge1.eml” file to answer the report questions below.
-
 Challenge File:
 01_Phishing_Analysis/Challenges/challenge1.eml
 
