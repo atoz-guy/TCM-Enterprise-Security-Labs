@@ -2,15 +2,15 @@ PSAA Defensive SOC Labs
 This repository documents my hands-on experience in defensive security engineering, network traffic analysis, and incident response methodologies, developed during the Practical SOC Analyst Associate (PSAA) track.
 
 **🛠️ Tooling & Skills**
-**Network Analysis: Wireshark, tcpdump, Snort**
+**Network Analysis: Wireshark, tcpdump, Snort
 
-**Endpoint Detection: LimaCharlie (EDR), Sysmon, Windows Event Logs**
+**Endpoint Detection: LimaCharlie (EDR), Sysmon, Windows Event Logs
 
-**SIEM & Log Management: Splunk (SPL), Log correlation & pattern matching**
+**SIEM & Log Management: Splunk (SPL), Log correlation & pattern matching
 
-**Threat Intelligence: YARA rule creation, MITRE ATT&CK mapping, MISP**
+**Threat Intelligence: YARA rule creation, MITRE ATT&CK mapping, MISP
 
-**Digital Forensics: FTK Imager, Artifact Triage**
+**Digital Forensics: FTK Imager, Artifact Triage
 
 ## 🔬 Lab Portfolio
 
