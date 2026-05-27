@@ -14,10 +14,10 @@ This repository documents my hands-on experience in defensive security engineeri
 
 ## 🔬 Lab Portfolio
 
-| Lab Number | Title                  |Status              |Focus Areas |
-| :---   | :---                       | :---               | :---                                   |
-| **01** | [Enterprise Traffic Analysis](https://github.com/atoz-guy/TCM-Enterprise-Security-Labs/tree/main/PSAA-Defensive-SOC/challenge1-report)     | ✅ Completed       | Network triage, IoC identification     |
-| **02** | Log Correlation & SIEM    | ⚪ Completed       | Log ingestion, Alert generation        |
-| **03** | Endpoint Analysis         | ⚪ Completed       | EDR triage, Sysmon, Autoruns           |
-| **04** | Threat Intel & YARA       | ⚪ Completed       | Malware signatures, MISP               |
-| **05** | Digital Forensics         | ⚪ Completed       | Forensic triage, Artifact analysis     |
+| Lab Number | Title                    |Status               |Focus Areas |
+| :---   | :---                         | :---                | :---                                   |
+| **01** | [Enterprise Traffic Analysis](https://github.com/atoz-guy/TCM-Enterprise-Security-Labs/tree/main/PSAA-Defensive-SOC/challenge1-report)        | ✅ Completed       | Network triage, IoC identification     |
+| **02** | Network Security (tcpdump)   | 🟡 In Progress     | Packet capture, traffic analysis       |
+| **03** | Endpoint Analysis            | ⚪ Completed       | EDR triage, Sysmon, Autoruns           |
+| **04** | Threat Intel & YARA          | ⚪ Completed       | Malware signatures, MISP               |
+| **05** | Digital Forensics            | ⚪ Completed       | Forensic triage, Artifact analysis     |
